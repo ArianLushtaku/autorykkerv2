@@ -1,0 +1,264 @@
+/* --- Landing Page Styles --- */
+
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+}
+
+.nav-button {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.nav-button:hover {
+    background-color: #357abd;
+}
+
+.hero {
+    background-color: #f4f7f9;
+    padding: 6rem 2rem;
+    text-align: center;
+}
+
+.hero-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #1a202c;
+    margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+    color: #5a677d;
+    margin-bottom: 2rem;
+}
+
+.hero-button {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.hero-button:hover {
+    background-color: #357abd;
+}
+
+.features {
+    padding: 4rem 2rem;
+}
+
+.features-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.feature-item {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    text-align: center;
+}
+
+.feature-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.footer {
+    background-color: #1a202c;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+
+/* --- Original App/Dashboard Styles --- */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f7f9;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #1a202c;
+}
+
+p {
+    font-size: 16px;
+    color: #5a677d;
+    margin-bottom: 30px;
+}
+
+.step {
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.step h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #1a202c;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+}
+
+input[type="text"] {
+    flex-grow: 1;
+    padding: 12px;
+    border: 1px solid #d2d6dc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #4a90e2;
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.2);
+}
+
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4a90e2;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #357abd;
+}
+
+/* Corrected Bank Selection List */
+#banks-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 15px;
+    max-height: 350px; /* Constrain height */
+    overflow-y: auto;  /* Make it scrollable */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+#banks-list li {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.2s;
+}
+
+#banks-list li:last-child {
+    border-bottom: none;
+}
+
+#banks-list li:hover {
+    background-color: #f5f5f5;
+}
+
+#banks-list li img {
+    width: 32px; /* Smaller logos */
+    height: 32px;
+    margin-right: 15px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+#banks-list li span {
+    font-size: 16px;
+}
+
+.hidden {
+    display: none;
+}
+
+#invoices-container {
+    margin-top: 25px;
+    text-align: left;
+}
+
+#invoices-list {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.error {
+    background-color: #ffebee;
+    color: #c62828;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    text-align: left;
+}

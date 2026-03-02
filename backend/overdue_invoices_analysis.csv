@@ -1,0 +1,340 @@
+invoice_number,contact_name,amount,issue_date,due_date,today,days_overdue,status,latest_mail_out_type,reminder_number,current_stage,next_action,next_action_date,should_send_now
+60,Line stjernholm,199.0,2024-07-19,2024-07-27,2025-11-30,491,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-08-19,YES
+363,Dennis uldahl,350.0,2024-08-09,2024-08-17,2025-11-30,470,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-09-09,YES
+507,Annika bohlbro,200.0,2024-08-29,2024-09-06,2025-11-30,450,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-09-29,YES
+580,Christian Skaarup Lindahl,175.0,2024-08-31,2024-09-08,2025-11-30,448,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-01,YES
+683,Yvonne,375.0,2024-09-04,2024-09-12,2025-11-30,444,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-05,YES
+677,Peter jebens,259.0,2024-09-04,2024-09-12,2025-11-30,444,Overdue,PreReminder,1,Rykker 1,Rykker 2,2024-09-25,YES
+667,Anja Sørensen,349.0,2024-09-04,2024-09-12,2025-11-30,444,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-05,YES
+722,Line stjernholm,199.0,2024-09-06,2024-09-14,2025-11-30,442,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-07,YES
+764,Hans Peter Jensen,399.0,2024-09-09,2024-09-17,2025-11-30,439,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-10,YES
+749,Mikkel Paulsen,200.0,2024-09-09,2024-09-17,2025-11-30,439,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-10,YES
+877,Alexander joansen,249.0,2024-09-13,2024-09-21,2025-11-30,435,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-14,YES
+907,Anna vohs,150.0,2024-09-14,2024-09-22,2025-11-30,434,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-15,YES
+886,Stine iuginius,159.0,2024-09-14,2024-09-22,2025-11-30,434,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-15,YES
+932,Grethe broe,150.0,2024-09-16,2024-09-24,2025-11-30,432,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-17,YES
+1009,Sandra schröder,149.0,2024-09-23,2024-10-01,2025-11-30,425,Overdue,PreReminder,1,Rykker 1,Rykker 2,2024-10-14,YES
+1005,Alexandra magda,200.0,2024-09-23,2024-10-01,2025-11-30,425,Overdue,PreReminder,1,Rykker 1,Rykker 2,2024-10-14,YES
+1136,Annika bohlbro,200.0,2024-09-28,2024-10-06,2025-11-30,420,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-29,YES
+1164,Ida pomykala,149.0,2024-09-30,2024-10-08,2025-11-30,418,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-31,YES
+1157,Martin,499.0,2024-09-30,2024-10-08,2025-11-30,418,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-10-31,YES
+1220,Peter jebens,259.0,2024-10-03,2024-10-11,2025-11-30,415,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-03,YES
+1341,Jette Clausen,250.0,2024-10-10,2024-10-18,2025-11-30,408,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-10,YES
+1459,Line stjernholm,199.0,2024-10-16,2024-10-24,2025-11-30,402,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-16,YES
+1503,Niller,500.0,2024-10-21,2024-10-29,2025-11-30,397,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-21,YES
+1494,Christian Skaarup Lindahl,175.0,2024-10-21,2024-10-29,2025-11-30,397,Overdue,Reminder,3,Rykker 3,Inkasso,2025-11-30,YES
+1612,Annika bohlbro,200.0,2024-10-27,2024-11-04,2025-11-30,391,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-27,YES
+1608,Helle Rosenblatt Hansen,229.0,2024-10-27,2024-11-04,2025-11-30,391,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-27,YES
+1633,Nicole,249.0,2024-10-28,2024-11-05,2025-11-30,390,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-11-28,YES
+1643,Peter jebens,259.0,2024-10-29,2024-11-06,2025-11-30,389,Overdue,Reminder,3,Rykker 3,Inkasso,2025-11-30,YES
+1690,Søren skriver,179.0,2024-10-30,2024-11-07,2025-11-30,388,Overdue,Reminder,1,Rykker 1,Rykker 2,2024-11-20,YES
+1702,Anja Sørensen,349.0,2024-11-01,2024-11-09,2025-11-30,386,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-02,YES
+1767,Bosagergården 1 3 5,750.0,2024-11-05,2024-11-13,2025-11-30,382,Overdue,PreReminder,0,Påmindelse,Rykker 1,2024-11-26,YES
+1827,Anna vohs,150.0,2024-11-07,2024-11-15,2025-11-30,380,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-08,YES
+2031,Annika bohlbro,200.0,2024-11-19,2024-11-27,2025-11-30,368,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-20,YES
+2040,Anders huus,239.0,2024-11-19,2024-11-27,2025-11-30,368,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-20,YES
+2150,Sandra schröder,149.0,2024-11-24,2024-12-02,2025-11-30,363,Overdue,PreReminder,0,Påmindelse,Rykker 1,2024-12-15,YES
+2157,Rikke Skovgaard Andersen,500.0,2024-11-25,2024-12-03,2025-11-30,362,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-26,YES
+2191,Line stjernholm,199.0,2024-11-26,2024-12-04,2025-11-30,361,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-27,YES
+2190,Martin,499.0,2024-11-26,2024-12-04,2025-11-30,361,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-27,YES
+2188,Patrick Heel,229.0,2024-11-26,2024-12-04,2025-11-30,361,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-27,YES
+2180,Peter jebens,259.0,2024-11-26,2024-12-04,2025-11-30,361,Overdue,Reminder,2,Rykker 2,Rykker 3,2024-12-27,YES
+2315,Laila,349.0,2024-12-04,2024-12-12,2025-11-30,353,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-04,YES
+2347,Helle Rosenblatt Hansen,229.0,2024-12-05,2024-12-13,2025-11-30,352,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-05,YES
+2377,Connie,229.0,2024-12-07,2024-12-15,2025-11-30,350,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-07,YES
+2470,Ann,299.0,2024-12-11,2024-12-19,2025-11-30,346,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-11,YES
+2535,Christian Skaarup Lindahl,175.0,2024-12-17,2024-12-25,2025-11-30,340,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-17,YES
+2524,Annika bohlbro,200.0,2024-12-17,2024-12-25,2025-11-30,340,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-17,YES
+2697,Søren skriver,179.0,2024-12-28,2025-01-05,2025-11-30,329,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-01-18,YES
+2753,Anja Sørensen,349.0,2024-12-30,2025-01-07,2025-11-30,327,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-30,YES
+2738,Peter jebens,259.0,2024-12-30,2025-01-07,2025-11-30,327,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-30,YES
+2778,Anna vohs,150.0,2024-12-31,2025-01-08,2025-11-30,326,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-01-31,YES
+2817,Anders huus,239.0,2025-01-06,2025-01-14,2025-11-30,320,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-06,YES
+2862,Erik Lassen,300.0,2025-01-07,2025-01-15,2025-11-30,319,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-07,YES
+2887,Alexander joansen,249.0,2025-01-08,2025-01-16,2025-11-30,318,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-08,YES
+2931,Mette antoniussen,149.0,2025-01-10,2025-01-18,2025-11-30,316,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-01-31,YES
+2919,Jette hansen,299.0,2025-01-10,2025-01-18,2025-11-30,316,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-01-31,YES
+2974,Linda Christensen Paulsen,229.0,2025-01-12,2025-01-20,2025-11-30,314,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-02-02,YES
+2959,Line stjernholm,199.0,2025-01-12,2025-01-20,2025-11-30,314,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-12,YES
+3025,Helle Rosenblatt Hansen,229.0,2025-01-14,2025-01-22,2025-11-30,312,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-14,YES
+3015,Laila westen,149.0,2025-01-14,2025-01-22,2025-11-30,312,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-02-04,YES
+3008,Rikke Skovgaard Andersen,199.0,2025-01-14,2025-01-22,2025-11-30,312,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-14,YES
+3082,Sandra schröder,149.0,2025-01-17,2025-01-25,2025-11-30,309,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-02-07,YES
+3097,Karina Haugaard,239.0,2025-01-18,2025-01-26,2025-11-30,308,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-18,YES
+3087,Marianne andersen,250.0,2025-01-18,2025-01-26,2025-11-30,308,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-18,YES
+3136,Annika bohlbro,200.0,2025-01-21,2025-01-29,2025-11-30,305,Overdue,Reminder,3,Rykker 3,Inkasso,2025-11-30,YES
+3246,Peter jebens,259.0,2025-01-27,2025-02-04,2025-11-30,299,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-27,YES
+3254,Patrick Heel,229.0,2025-01-28,2025-02-05,2025-11-30,298,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-28,YES
+3250,Dennis uldahl,350.0,2025-01-28,2025-02-05,2025-11-30,298,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-02-28,YES
+3312,Gitte Kramer,279.0,2025-01-31,2025-02-08,2025-11-30,295,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-03,YES
+3383,Ann,299.0,2025-02-07,2025-02-15,2025-11-30,288,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-10,YES
+3457,Jim Poulsen,329.0,2025-02-10,2025-02-18,2025-11-30,285,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-13,YES
+3442,Anders huus,239.0,2025-02-10,2025-02-18,2025-11-30,285,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-13,YES
+3528,Betina Rasmussen,299.0,2025-02-12,2025-02-20,2025-11-30,283,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-15,YES
+3542,Annika bohlbro,200.0,2025-02-13,2025-02-21,2025-11-30,282,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-16,YES
+3568,Christian Skaarup Lindahl,175.0,2025-02-14,2025-02-22,2025-11-30,281,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-17,YES
+3631,Torkild,179.0,2025-02-18,2025-02-26,2025-11-30,277,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-03-11,YES
+3620,Bettina lasota,199.0,2025-02-18,2025-02-26,2025-11-30,277,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-21,YES
+3618,Anja Sørensen,349.0,2025-02-18,2025-02-26,2025-11-30,277,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-21,YES
+3645,Peter jebens,259.0,2025-02-19,2025-02-27,2025-11-30,276,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-22,YES
+3687,Bente Schmidt,279.0,2025-02-20,2025-02-28,2025-11-30,275,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-23,YES
+3670,Line stjernholm,199.0,2025-02-20,2025-02-28,2025-11-30,275,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-23,YES
+3760,Karina Haugaard,239.0,2025-02-24,2025-03-04,2025-11-30,271,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-27,YES
+3743,Helle Rosenblatt Hansen,229.0,2025-02-24,2025-03-04,2025-11-30,271,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-27,YES
+3786,Bosagergården 1 3 5,750.0,2025-02-25,2025-03-05,2025-11-30,270,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-03-18,YES
+3840,Connie,229.0,2025-02-26,2025-03-06,2025-11-30,269,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-29,YES
+3836,Dalsmark plejecenter,5500.0,2025-02-26,2025-03-06,2025-11-30,269,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-03-09,YES
+3847,Anna vohs,150.0,2025-02-27,2025-03-07,2025-11-30,268,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-03-30,YES
+3952,Wafaa Mannaa,199.0,2025-03-04,2025-03-12,2025-11-30,263,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-03-25,YES
+4019,Rikke Skovgaard Andersen,199.0,2025-03-10,2025-03-18,2025-11-30,257,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-10,YES
+4045,Vinnie Troelsen,200.0,2025-03-11,2025-03-19,2025-11-30,256,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-11,YES
+4049,Annika bohlbro,200.0,2025-03-11,2025-03-19,2025-11-30,256,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-11,YES
+4089,Kom tit,250.0,2025-03-12,2025-03-20,2025-11-30,255,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-12,YES
+4103,Sandra schröder,149.0,2025-03-13,2025-03-21,2025-11-30,254,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-04-03,YES
+4274,Peter jebens,259.0,2025-03-20,2025-03-28,2025-11-30,247,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-20,YES
+4378,Torben,199.0,2025-03-25,2025-04-02,2025-11-30,242,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-25,YES
+4353,Rasmus Olsson,400.0,2025-03-25,2025-04-02,2025-11-30,242,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-25,YES
+4348,Gitte Kramer,279.0,2025-03-25,2025-04-02,2025-11-30,242,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-25,YES
+4429,Anders huus,239.0,2025-03-27,2025-04-04,2025-11-30,240,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-27,YES
+4427,Destilleriet Als ApS,799.0,2025-03-27,2025-04-04,2025-11-30,240,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-27,YES
+4416,Karl,229.0,2025-03-27,2025-04-04,2025-11-30,240,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-04-27,YES
+4526,Line stjernholm,199.0,2025-04-01,2025-04-09,2025-11-30,235,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-02,YES
+4511,Ann,299.0,2025-04-01,2025-04-09,2025-11-30,235,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-02,YES
+4539,Betina Rasmussen,299.0,2025-04-02,2025-04-10,2025-11-30,234,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-03,YES
+4626,Kom tit,500.0,2025-04-07,2025-04-15,2025-11-30,229,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-08,YES
+4662,Zahra Awad,250.0,2025-04-08,2025-04-16,2025-11-30,228,Overdue,PreReminder,1,Rykker 1,Rykker 2,2025-04-29,YES
+4666,Helle Rosenblatt Hansen,229.0,2025-04-09,2025-04-17,2025-11-30,227,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-10,YES
+4713,Christian Skaarup Lindahl,175.0,2025-04-10,2025-04-18,2025-11-30,226,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-11,YES
+4707,Karina Haugaard,239.0,2025-04-10,2025-04-18,2025-11-30,226,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-11,YES
+4703,Hauke Hüllemann,175.0,2025-04-10,2025-04-18,2025-11-30,226,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-11,YES
+4721,Annika bohlbro,200.0,2025-04-10,2025-04-18,2025-11-30,226,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-11,YES
+4757,Anja Sørensen,349.0,2025-04-14,2025-04-22,2025-11-30,222,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-15,YES
+4870,Torkild,179.0,2025-04-18,2025-04-26,2025-11-30,218,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-19,YES
+4863,Peter jebens,259.0,2025-04-18,2025-04-26,2025-11-30,218,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-19,YES
+4941,Anna vohs,150.0,2025-04-22,2025-04-30,2025-11-30,214,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-23,YES
+4930,Vinnie Troelsen,200.0,2025-04-22,2025-04-30,2025-11-30,214,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-23,YES
+4972,Alexander joansen,249.0,2025-04-23,2025-05-01,2025-11-30,213,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-24,YES
+5006,Jannie Terp,249.0,2025-04-24,2025-05-02,2025-11-30,212,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-25,YES
+5003,Bastian Timm schwarz,249.0,2025-04-24,2025-05-02,2025-11-30,212,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-25,YES
+5072,Lars Bertelsen,349.0,2025-04-28,2025-05-06,2025-11-30,208,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-29,YES
+5061,Lars Bertelsen,299.0,2025-04-28,2025-05-06,2025-11-30,208,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-29,YES
+5083,Pernille buhrkal,239.0,2025-04-29,2025-05-07,2025-11-30,207,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-30,YES
+5097,Gertrud Nielsen,289.0,2025-04-30,2025-05-08,2025-11-30,206,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-05-31,YES
+5148,Peter Kjærgaard,249.0,2025-05-01,2025-05-09,2025-11-30,205,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-01,YES
+5147,Peter Kjærgaard,199.0,2025-05-01,2025-05-09,2025-11-30,205,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-01,YES
+5142,Kim steg,279.0,2025-05-01,2025-05-09,2025-11-30,205,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-05-22,YES
+5194,Kom tit,250.0,2025-05-05,2025-05-13,2025-11-30,201,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-05,YES
+5257,Sandra schröder,149.0,2025-05-07,2025-05-15,2025-11-30,199,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-05-28,YES
+5302,Destilleriet Als ApS,799.0,2025-05-08,2025-05-16,2025-11-30,198,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-08,YES
+5293,Rikke Skovgaard Andersen,199.0,2025-05-08,2025-05-16,2025-11-30,198,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-08,YES
+5305,Annika bohlbro,200.0,2025-05-08,2025-05-16,2025-11-30,198,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-08,YES
+5341,Jim Poulsen,329.0,2025-05-09,2025-05-17,2025-11-30,197,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-09,YES
+5328,Anders huus,239.0,2025-05-09,2025-05-17,2025-11-30,197,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-09,YES
+5398,Martin,499.0,2025-05-13,2025-05-21,2025-11-30,193,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-13,YES
+5429,Jamie Bang,279.0,2025-05-14,2025-05-22,2025-11-30,192,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-14,YES
+5417,Peter jebens,259.0,2025-05-14,2025-05-22,2025-11-30,192,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-14,YES
+5448,Susanne Moritz-Jørgensen,697.5,2025-05-15,2025-05-23,2025-11-30,191,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-15,YES
+5536,Helle Rosenblatt Hansen,229.0,2025-05-20,2025-05-28,2025-11-30,186,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-20,YES
+5593,Else Povlsen,179.0,2025-05-21,2025-05-29,2025-11-30,185,Overdue,None,0,Original Invoice,PreReminder (Påmindelse),2025-06-01,YES
+5690,Connie,229.0,2025-05-24,2025-06-01,2025-11-30,182,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-24,YES
+5729,Simon Glarbo Stauning,429.0,2025-05-26,2025-06-03,2025-11-30,180,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-26,YES
+5767,Anja straagaard,229.0,2025-05-28,2025-06-05,2025-11-30,178,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-28,YES
+5800,Ann,299.0,2025-05-29,2025-06-06,2025-11-30,177,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-29,YES
+5824,Peter Kjærgaard,199.0,2025-05-30,2025-06-07,2025-11-30,176,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-30,YES
+5823,Peter Kjærgaard,249.0,2025-05-30,2025-06-07,2025-11-30,176,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-06-30,YES
+5856,Zahra Awad,250.0,2025-06-02,2025-06-10,2025-11-30,173,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-03,YES
+5829,Vinnie Troelsen,200.0,2025-06-02,2025-06-10,2025-11-30,173,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-03,YES
+5881,Christian Skaarup Lindahl,175.0,2025-06-03,2025-06-11,2025-11-30,172,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-04,YES
+5900,Kom tit,500.0,2025-06-04,2025-06-12,2025-11-30,171,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-05,YES
+5954,Newparts,379.0,2025-06-05,2025-06-13,2025-11-30,170,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-06-26,YES
+5960,Annika bohlbro,200.0,2025-06-05,2025-06-13,2025-11-30,170,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-06,YES
+5990,Anja Sørensen,349.0,2025-06-09,2025-06-17,2025-11-30,166,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-10,YES
+6009,Bente Schmidt,279.0,2025-06-10,2025-06-18,2025-11-30,165,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-11,YES
+6163,Torben,199.0,2025-06-16,2025-06-24,2025-11-30,159,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-17,YES
+6171,Anders huus,239.0,2025-06-16,2025-06-24,2025-11-30,159,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-17,YES
+6154,Lilly nielsen,299.0,2025-06-16,2025-06-24,2025-11-30,159,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-17,YES
+6150,Anders huus,239.0,2025-06-16,2025-06-24,2025-11-30,159,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-17,YES
+6172,Bosagergården 1 3 5,750.0,2025-06-16,2025-06-24,2025-11-30,159,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-07-07,YES
+6253,Torben Andresen,399.0,2025-06-18,2025-06-26,2025-11-30,157,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-19,YES
+6277,Anna vohs,150.0,2025-06-19,2025-06-27,2025-11-30,156,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-20,YES
+6267,Kim matthisen,150.0,2025-06-19,2025-06-27,2025-11-30,156,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-20,YES
+6308,Lone,339.0,2025-06-19,2025-06-27,2025-11-30,156,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-20,YES
+6274,Lasse Jacobsen,219.0,2025-06-19,2025-06-27,2025-11-30,156,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-20,YES
+6373,Peter Kjærgaard,199.0,2025-06-24,2025-07-02,2025-11-30,151,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-25,YES
+6405,Peter Kjærgaard,249.0,2025-06-25,2025-07-03,2025-11-30,150,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-26,YES
+6459,Nino Rosanes,250.0,2025-06-26,2025-07-04,2025-11-30,149,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-07-17,YES
+6462,Harro bitterling,319.0,2025-06-26,2025-07-04,2025-11-30,149,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-07-07,YES
+6472,Jamie Bang,279.0,2025-06-27,2025-07-05,2025-11-30,148,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-07-28,YES
+6545,Freja Nielsen,572.0,2025-07-01,2025-07-09,2025-11-30,144,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-07-22,YES
+6539,Sandra schröder,149.0,2025-07-01,2025-07-09,2025-11-30,144,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-07-22,YES
+6559,Kom tit,250.0,2025-07-02,2025-07-10,2025-11-30,143,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-02,YES
+6643,Helle Rosenblatt Hansen,229.0,2025-07-04,2025-07-12,2025-11-30,141,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-04,YES
+6683,Premium Vinduespuds,31250.0,2025-07-04,2025-07-12,2025-11-30,141,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-07-15,YES
+6671,Annika bohlbro,200.0,2025-07-04,2025-07-12,2025-11-30,141,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-04,YES
+6760,Susanne Moritz-Jørgensen,279.0,2025-07-09,2025-07-17,2025-11-30,136,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-09,YES
+6864,Camilla bundesen,229.0,2025-07-13,2025-07-21,2025-11-30,132,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-13,YES
+6883,Vinnie Troelsen,200.0,2025-07-14,2025-07-22,2025-11-30,131,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-14,YES
+7046,Ann,299.0,2025-07-19,2025-07-27,2025-11-30,126,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-19,YES
+7124,Betina Rasmussen,299.0,2025-07-22,2025-07-30,2025-11-30,123,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-22,YES
+7183,Peter Kjærgaard,199.0,2025-07-25,2025-08-02,2025-11-30,120,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-25,YES
+7180,Peter Kjærgaard,249.0,2025-07-25,2025-08-02,2025-11-30,120,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-25,YES
+7202,Kim matthisen,150.0,2025-07-28,2025-08-05,2025-11-30,117,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-28,YES
+7248,Steen winum,199.0,2025-07-29,2025-08-06,2025-11-30,116,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-29,YES
+7246,Christian Skaarup Lindahl,175.0,2025-07-29,2025-08-06,2025-11-30,116,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-29,YES
+7290,Kom tit,250.0,2025-07-30,2025-08-07,2025-11-30,115,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-30,YES
+7318,Annika bohlbro,200.0,2025-07-31,2025-08-08,2025-11-30,114,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-31,YES
+7317,Freja Nielsen,229.0,2025-07-31,2025-08-08,2025-11-30,114,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-08-31,YES
+7363,Anders huus,239.0,2025-08-01,2025-08-09,2025-11-30,113,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-01,YES
+7335,Linda tækker,150.0,2025-08-01,2025-08-09,2025-11-30,113,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-01,YES
+7396,Sarina Sofia Lind,259.0,2025-08-04,2025-08-12,2025-11-30,110,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-04,YES
+7449,Nicole,249.0,2025-08-05,2025-08-13,2025-11-30,109,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-05,YES
+7455,Jamie Bang,279.0,2025-08-06,2025-08-14,2025-11-30,108,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-06,YES
+7524,Anja Sørensen,349.0,2025-08-07,2025-08-15,2025-11-30,107,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-07,YES
+7522,Lone,339.0,2025-08-07,2025-08-15,2025-11-30,107,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-07,YES
+7515,Per S. Hartung,429.0,2025-08-07,2025-08-15,2025-11-30,107,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-07,YES
+7572,Ingrid vedsegaard,150.0,2025-08-08,2025-08-16,2025-11-30,106,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-08,YES
+7690,Helle Rosenblatt Hansen,229.0,2025-08-13,2025-08-21,2025-11-30,101,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-13,YES
+7681,Torben,199.0,2025-08-13,2025-08-21,2025-11-30,101,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-13,YES
+7650,Anna vohs,150.0,2025-08-13,2025-08-21,2025-11-30,101,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-13,YES
+7712,Karina Haugaard,239.0,2025-08-14,2025-08-22,2025-11-30,100,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-14,YES
+7741,Kristina hansen,349.0,2025-08-15,2025-08-23,2025-11-30,99,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-15,YES
+7834,Peter Kjærgaard,199.0,2025-08-19,2025-08-27,2025-11-30,95,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-19,YES
+7827,Peter Kjærgaard,249.0,2025-08-19,2025-08-27,2025-11-30,95,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-19,YES
+7820,Susanne Moritz-Jørgensen,279.0,2025-08-19,2025-08-27,2025-11-30,95,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-19,YES
+7914,Johannes bohsen,300.0,2025-08-21,2025-08-29,2025-11-30,93,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-09-11,YES
+7898,Allice Mortensen,229.0,2025-08-21,2025-08-29,2025-11-30,93,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-09-11,YES
+7949,Kom tit,500.0,2025-08-25,2025-09-02,2025-11-30,89,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-25,YES
+7994,Tove Brock,229.0,2025-08-26,2025-09-03,2025-11-30,88,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-09-06,YES
+8108,Freja Nielsen,229.0,2025-08-29,2025-09-06,2025-11-30,85,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-09-29,YES
+8228,Claus Schmidt,1622.73,2025-09-03,2025-09-11,2025-11-30,80,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-04,YES
+8287,Ingrid vedsegaard,150.0,2025-09-04,2025-09-12,2025-11-30,79,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-05,YES
+8330,Karikatur restaurant,600.0,2025-09-05,2025-09-13,2025-11-30,78,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-06,YES
+8328,Claus Schmidt,229.0,2025-09-05,2025-09-13,2025-11-30,78,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-06,YES
+8381,Rasmus Olsson,400.0,2025-09-08,2025-09-16,2025-11-30,75,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-09,YES
+8369,Steen winum,199.0,2025-09-08,2025-09-16,2025-11-30,75,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-09,YES
+8484,Torben,199.0,2025-09-10,2025-09-18,2025-11-30,73,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-11,YES
+8481,Kim matthisen,150.0,2025-09-10,2025-09-18,2025-11-30,73,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-11,YES
+8456,Connie,229.0,2025-09-10,2025-09-18,2025-11-30,73,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-11,YES
+8555,Nino Rosanes,250.0,2025-09-12,2025-09-20,2025-11-30,71,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-13,YES
+8554,Nino Rosanes,250.0,2025-09-12,2025-09-20,2025-11-30,71,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-13,YES
+8589,Pia krisoffersen,200.0,2025-09-15,2025-09-23,2025-11-30,68,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-16,YES
+8585,Peter Kjærgaard,199.0,2025-09-15,2025-09-23,2025-11-30,68,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-16,YES
+8581,Peter Kjærgaard,249.0,2025-09-15,2025-09-23,2025-11-30,68,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-16,YES
+8658,Susanne henriksen,239.0,2025-09-17,2025-09-25,2025-11-30,66,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-10-08,YES
+8690,Ann,299.0,2025-09-18,2025-09-26,2025-11-30,65,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-19,YES
+8837,Christian Skaarup Lindahl,175.0,2025-09-23,2025-10-01,2025-11-30,60,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-24,YES
+8823,Kristina hansen,349.0,2025-09-23,2025-10-01,2025-11-30,60,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-24,YES
+6684,Premium Vinduespuds,31250.0,2025-07-04,2025-10-02,2025-11-30,59,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-10-05,YES
+8878,Heino brandt,150.0,2025-09-24,2025-10-02,2025-11-30,59,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-25,YES
+8900,Lea amelung,249.0,2025-09-25,2025-10-03,2025-11-30,58,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-26,YES
+8955,Nicole,249.0,2025-09-29,2025-10-07,2025-11-30,54,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-30,YES
+8944,Anja Sørensen,349.0,2025-09-29,2025-10-07,2025-11-30,54,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-30,YES
+9045,Claus Schmidt,229.0,2025-09-30,2025-10-08,2025-11-30,53,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-31,YES
+9023,Ingrid vedsegaard,150.0,2025-09-30,2025-10-08,2025-11-30,53,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-10-21,YES
+9016,Susanne Moritz-Jørgensen,279.0,2025-09-30,2025-10-08,2025-11-30,53,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-10-31,YES
+9091,Zarah,199.0,2025-10-01,2025-10-09,2025-11-30,52,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-01,YES
+9125,Lone,339.0,2025-10-02,2025-10-10,2025-11-30,51,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-02,YES
+9204,Torben Andresen,399.0,2025-10-07,2025-10-15,2025-11-30,46,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-07,YES
+9281,Bosagergården 1 3 5,750.0,2025-10-08,2025-10-16,2025-11-30,45,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-10-29,YES
+9261,Newparts,379.0,2025-10-08,2025-10-16,2025-11-30,45,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-10-19,YES
+9256,Torben,199.0,2025-10-08,2025-10-16,2025-11-30,45,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-08,YES
+9321,Anna vohs,150.0,2025-10-09,2025-10-17,2025-11-30,44,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-09,YES
+9372,Peter Kjærgaard,249.0,2025-10-13,2025-10-21,2025-11-30,40,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-03,YES
+9382,Peter Kjærgaard,199.0,2025-10-13,2025-10-21,2025-11-30,40,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-13,YES
+9545,Karsten wohlgemuth,199.0,2025-10-20,2025-10-28,2025-11-30,33,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-20,YES
+9639,Bo King kians,150.0,2025-10-21,2025-10-29,2025-11-30,32,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-21,YES
+9629,Kim matthisen,150.0,2025-10-21,2025-10-29,2025-11-30,32,Overdue,Reminder,2,Rykker 2,Rykker 3,2025-11-21,YES
+9661,Sandra schröder,149.0,2025-10-22,2025-10-30,2025-11-30,31,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-02,YES
+9676,Louise Helbo Iversen,200.0,2025-10-22,2025-10-30,2025-11-30,31,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-12,YES
+9668,Steen winum,199.0,2025-10-22,2025-10-30,2025-11-30,31,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-12,YES
+9662,Morten bøjtang,649.0,2025-10-22,2025-10-30,2025-11-30,31,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-12,YES
+9718,Bo foodcourt,150.0,2025-10-23,2025-10-31,2025-11-30,30,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-13,YES
+9759,Michael,249.0,2025-10-24,2025-11-01,2025-11-30,29,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-14,YES
+9798,Ingrid vedsegaard,150.0,2025-10-27,2025-11-04,2025-11-30,26,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-17,YES
+9785,Martin,499.0,2025-10-27,2025-11-04,2025-11-30,26,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-17,YES
+9782,Lise Rødgaard,229.0,2025-10-27,2025-11-04,2025-11-30,26,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-17,YES
+9825,Vibeke Christensen,300.0,2025-10-28,2025-11-05,2025-11-30,25,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-18,YES
+9819,Pia krisoffersen,200.0,2025-10-28,2025-11-05,2025-11-30,25,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-18,YES
+9933,Dennis rosengren,300.0,2025-10-30,2025-11-07,2025-11-30,23,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-20,YES
+9930,Dennis rosengren,200.0,2025-10-30,2025-11-07,2025-11-30,23,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-20,YES
+10000,Lisbeth Gandrup,625.0,2025-11-01,2025-11-09,2025-11-30,21,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-22,YES
+10049,René Kragesand,412.5,2025-11-03,2025-11-11,2025-11-30,19,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-24,YES
+10045,Michael latter,259.0,2025-11-03,2025-11-11,2025-11-30,19,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-24,YES
+10037,Kristina hansen,349.0,2025-11-03,2025-11-11,2025-11-30,19,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-24,YES
+10034,Ida,199.0,2025-11-03,2025-11-11,2025-11-30,19,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-24,YES
+10030,Helle Rosenblatt Hansen,229.0,2025-11-03,2025-11-11,2025-11-30,19,Overdue,Reminder,1,Rykker 1,Rykker 2,2025-11-24,YES
+10138,Bo foodcourt,150.0,2025-11-05,2025-11-13,2025-11-30,17,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-26,YES
+10125,Mathias,200.0,2025-11-05,2025-11-13,2025-11-30,17,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-26,YES
+10121,Bo King kians,150.0,2025-11-05,2025-11-13,2025-11-30,17,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-26,YES
+10115,Connie,229.0,2025-11-05,2025-11-13,2025-11-30,17,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-26,YES
+10759,Arian Lushtaku,1.25,2025-11-05,2025-11-13,2025-11-30,17,Overdue,None,0,Original Invoice,PreReminder (Påmindelse),2025-11-16,YES
+10201,Maria Harmundal Kruse,349.0,2025-11-06,2025-11-14,2025-11-30,16,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-27,YES
+10167,Gitte Kramer,279.0,2025-11-06,2025-11-14,2025-11-30,16,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-27,YES
+10182,Rita buchhardt,199.0,2025-11-06,2025-11-14,2025-11-30,16,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-11-27,YES
+10251,Ann,299.0,2025-11-10,2025-11-18,2025-11-30,12,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-12-01,NO
+10248,Nino Rosanes,250.0,2025-11-10,2025-11-18,2025-11-30,12,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-12-01,NO
+10246,Susanne Moritz-Jørgensen,279.0,2025-11-10,2025-11-18,2025-11-30,12,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-12-01,NO
+10220,Lisbeth karma,149.0,2025-11-10,2025-11-18,2025-11-30,12,Overdue,PreReminder,0,Påmindelse,Rykker 1,2025-12-01,NO
+10308,Lasse Bækvad-hansen,459.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10272,Susanne henriksen,239.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10306,Monika Gastrup,100.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10301,Liv Læbel,249.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10299,Jan Callesen,249.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10295,Michelle lind,249.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10321,Kim Lassen,164.5,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10282,Ulla haase,379.0,2025-11-11,2025-11-19,2025-11-30,11,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-22,YES
+10363,Heino brandt,150.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10361,Britta Jensen,199.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10358,Egon holm,250.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10352,Heidi hansen,279.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10351,Morten tingleff,199.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10342,Julie Madsen,229.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10341,Lotte andersen,229.0,2025-11-12,2025-11-20,2025-11-30,10,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10333,Tandlægeholdingselskabet ML,299.0,2025-11-12,2025-11-20,2025-11-30,10,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-23,YES
+10378,Camilla nøhr,229.0,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10374,Malene Lundgaard,249.0,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10394,Zarah,199.0,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10389,Marianne phiri,697.5,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10385,Thomas Carstensen,229.0,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10376,Anja straagaard,229.0,2025-11-13,2025-11-21,2025-11-30,9,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-24,YES
+10454,Sesine Paulsen,219.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10452,Jeanette skovmand,749.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10451,Christian Skaarup Lindahl,175.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10450,Tove bladt,624.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10443,Omar chabab,199.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10441,Inger plauborg,250.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10438,Charlotte Wollesen,129.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10428,Margit Hoffmann,299.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10417,Hanne Brodersen,300.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10414,Preben bürgel,239.0,2025-11-17,2025-11-25,2025-11-30,5,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-28,YES
+10508,Zahra Awad,250.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10506,Newparts,950.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10497,Søren Iwersen-Mevs,149.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10493,Bo foodcourt,150.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10486,Pernille Mathisen,229.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10478,Jytte,279.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10472,Monique,498.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10466,Henriette roberts,299.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10464,Peter Krull Baum,319.0,2025-11-18,2025-11-26,2025-11-30,4,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-29,YES
+10509,Lis Arnold,150.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10552,Brian schøning,299.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10543,Bo King kians,150.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10541,Sonja jürgensen,343.5,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10536,Mette Petersen,229.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10534,Rene Thormod,299.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10533,Paul Christiansen,279.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10530,Marie Louise Simonsen,109.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10512,Susanne Jensen,499.0,2025-11-19,2025-11-27,2025-11-30,3,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10526,Conny petersen,200.0,2025-11-19,2025-11-27,2025-11-30,3,Overdue,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-11-30,YES
+10589,Rigmor Jessen,250.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10586,Anette Koch caras,1750.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10585,Kim lindahl,229.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10581,Steffen,1450.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10575,Charlotte heijkoop,499.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10572,Diana hansen,249.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10560,Lars smedemark,289.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10592,Dan-Special,400.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10593,Glen piil,199.0,2025-11-20,2025-11-28,2025-11-30,2,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-01,NO
+10609,Christa Lunn,200.0,2025-11-21,2025-11-29,2025-11-30,1,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-02,NO
+10612,Sylvia,250.0,2025-11-21,2025-11-29,2025-11-30,1,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-02,NO
+10604,Louise Helbo Iversen,200.0,2025-11-21,2025-11-29,2025-11-30,1,Booked,Mailout,0,Original Invoice,PreReminder (Påmindelse),2025-12-02,NO

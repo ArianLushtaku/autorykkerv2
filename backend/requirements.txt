@@ -1,0 +1,10 @@
+flask
+flask-limiter
+python-dotenv
+requests
+cryptography
+flask-cors
+supabase
+gunicorn
+pytest
+stripe
